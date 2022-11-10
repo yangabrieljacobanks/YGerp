@@ -1,0 +1,11 @@
+1186488348
+ggv454
+
+DESKTOP-H9SDOSS\yanga (yanga)
+
+DESKTOP-H9SDOSS
+sa
+masterkey
+
+usuario sql: YGerpuser
+senha sql: YGmasterkey
