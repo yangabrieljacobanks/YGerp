@@ -885,7 +885,7 @@ inherited FrmLogin: TFrmLogin
       Width = 295
       Height = 39
       Align = alClient
-      Caption = 'Login - YGERP'
+      Caption = 'Login'
       Color = clNavy
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWhite
