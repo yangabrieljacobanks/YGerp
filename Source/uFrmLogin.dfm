@@ -20,7 +20,8 @@ inherited FrmLogin: TFrmLogin
       item
         Width = 200
       end>
-    ExplicitTop = 254
+    ExplicitLeft = 0
+    ExplicitTop = 226
     ExplicitWidth = 377
   end
   object Panel1: TPanel
@@ -32,9 +33,6 @@ inherited FrmLogin: TFrmLogin
     Color = clWhite
     ParentBackground = False
     TabOrder = 1
-    ExplicitLeft = 45
-    ExplicitTop = 35
-    ExplicitHeight = 213
     object Image3: TImage
       Left = 5
       Top = 67
@@ -887,7 +885,7 @@ inherited FrmLogin: TFrmLogin
       Width = 295
       Height = 39
       Align = alClient
-      Caption = 'Login'
+      Caption = 'Login - YGERP'
       Color = clNavy
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWhite
@@ -908,7 +906,6 @@ inherited FrmLogin: TFrmLogin
     Color = clNavy
     ParentBackground = False
     TabOrder = 3
-    ExplicitHeight = 213
   end
   object Timer: TTimer
     OnTimer = TimerTimer
